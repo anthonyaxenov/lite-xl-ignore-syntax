@@ -1,7 +1,7 @@
 -- mod-version:2
 
 -- Anthony Axenov (c) 2022, The MIT License
--- https://github.com/anthonyaxenov/lite-xl-env-syntax
+-- https://github.com/anthonyaxenov/lite-xl-ignore-syntax/
 
 local syntax = require "core.syntax"
 local style = require "core.style"
