@@ -1,4 +1,4 @@
-# env syntax support plugin for lite-xl
+# `.*ignore` syntax support plugin for lite-xl
 
 [Lite-XL](https://lite-xl.com/) is lightweight, fast and customizable open-source code editor.
 
