@@ -1,4 +1,4 @@
--- mod-version:2
+-- mod-version:3
 
 -- Anthony Axenov (c) 2022, The MIT License
 -- https://github.com/anthonyaxenov/lite-xl-ignore-syntax/
